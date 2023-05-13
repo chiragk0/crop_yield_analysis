@@ -5,3 +5,8 @@
 </p>
 
 ### Objectives
+- Finalize on a singular machine learning model that fits the data
+- Find which features yield the highest overall crop growth
+- Visualize the model's results and reach a conclusion on which features farmers should focus on 
+
+### Ideas for the Future
